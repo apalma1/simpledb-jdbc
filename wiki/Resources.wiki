@@ -3,3 +3,5 @@
 = Good articles=
 
   * [http://aws.amazon.com/articles/1394 Building for Performance and Reliability with Amazon SimpleDB]
+  * [http://media.amazonwebservices.com/pdf/AWS_Security_Whitepaper.pdf AWS Security whitepaper]
+  * [http://media.amazonwebservices.com/Whitepaper_Security_Best_Practices_2010.pdf AWS Security best practices]
