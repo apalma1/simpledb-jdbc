@@ -1,0 +1,5 @@
+#summary Good resources for SimpleDB and JDBC
+
+= Good articles=
+
+  * [http://aws.amazon.com/articles/1394 Building for Performance and Reliability with Amazon SimpleDB]
