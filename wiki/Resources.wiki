@@ -6,3 +6,10 @@
   * [http://media.amazonwebservices.com/pdf/AWS_Security_Whitepaper.pdf AWS Security whitepaper]
   * [http://media.amazonwebservices.com/Whitepaper_Security_Best_Practices_2010.pdf AWS Security best practices]
   * [http://www.ibm.com/developerworks/java/library/j-javadev2-9/ Java development 2.0: Cloud storage with Amazon's SimpleDB, Part 1]
+
+= APIs =
+
+  * [http://docs.amazonwebservices.com/AWSJavaSDK/latest/javadoc/index.html AWS Java SDK API]
+  * [http://jsqlparser.sourceforge.net/docs/ JSQLParser JavaDocs]
+  * [http://download.oracle.com/javase/6/docs/api/ Java 6 API]
+    * [http://download.oracle.com/javase/1.3/docs/guide/jdbc/getstart/preparedstatement.html About PreparedStatements]
